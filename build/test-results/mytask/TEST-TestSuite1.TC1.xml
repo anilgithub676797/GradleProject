@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite1.TC1" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-02-04T12:15:18" hostname="GC025-A51E-1A2F" time="0.058">
+  <properties/>
+  <testcase name="TC1" classname="TestSuite1.TC1" time="0.058"/>
+  <system-out><![CDATA[This is TC1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

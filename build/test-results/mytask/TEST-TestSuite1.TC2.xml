@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestSuite1.TC2" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-02-04T12:15:18" hostname="GC025-A51E-1A2F" time="0.008">
+  <properties/>
+  <testcase name="TC2[0](AAYAN, KHAJEKAR)" classname="TestSuite1.TC2" time="0.002"/>
+  <testcase name="TC2[1](PAWNI, KHAJEKAR)" classname="TestSuite1.TC2" time="0.002"/>
+  <system-out><![CDATA[AAYAN KHAJEKAR
+PAWNI KHAJEKAR
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
